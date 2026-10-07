@@ -1,16 +1,22 @@
-## Hi there 👋
+# Привет!👋
 
-<!--
-**Konstantin-K-I/Konstantin-K-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Константин, и со мной можно на "ты" 🙋
 
-Here are some ideas to get you started:
+Я Аналитик широкого профиля (Аналитик данных/Маркетинговый/BI). Специалист по росту бизнеса с опытом более 10 лет в продажах и 5+ лет в интернет-маркетинге. Совмещаю коммерческую экспертизу с инструментами аналитика данных: собираю, обрабатываю и интерпретирую данные, чтобы находить точки роста и принимать data-driven решения.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+
+- Базы данных: PostgreSQL
+- Программирование: Python
+- Анализ данных: pandas, NumPy, SciPy
+- Визуализация: Matplotlib, Seaborn, PowerBi, Superset, Grafana, DataLens
+- Web-аналитика: Яндекс.Метрика, Google Analytics
+- PPC: Яндекс Директ, Google Ads
+
+## Проекты
+/under construction/
+
+## Контакты
+
+- Почта: k.kozlikov@yandex.ru
+- Telegram: [@kot_pocheshir](https://t.me/kot_pocheshir)
