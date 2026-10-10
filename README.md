@@ -7,8 +7,7 @@
 ## Навыки
 
 - Базы данных: PostgreSQL
-- Программирование: Python
-- Анализ данных: pandas, NumPy, SciPy
+- Анализ данных: Python (pandas, NumPy, SciPy)
 - Визуализация: Matplotlib, Seaborn, PowerBi, Superset, Grafana, DataLens
 - Web-аналитика: Яндекс.Метрика, Google Analytics
 - PPC: Яндекс Директ, Google Ads
